@@ -1,0 +1,15 @@
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\bin\Debug\net6.0\prototype-pattern.exe
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\bin\Debug\net6.0\prototype-pattern.deps.json
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\bin\Debug\net6.0\prototype-pattern.runtimeconfig.json
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\bin\Debug\net6.0\prototype-pattern.dll
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\bin\Debug\net6.0\prototype-pattern.pdb
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.csproj.AssemblyReference.cache
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.AssemblyInfoInputs.cache
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.AssemblyInfo.cs
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.dll
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\refint\prototype-pattern.dll
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.pdb
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\prototype-pattern.genruntimeconfig.cache
+D:\mycode\cpp\csharp\design-patterns\prototype-pattern\prototype-pattern\obj\Debug\net6.0\ref\prototype-pattern.dll
